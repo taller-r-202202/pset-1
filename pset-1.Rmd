@@ -24,7 +24,7 @@ En este taller se evalúan los módulos 1 y 2 del curso. Se presentan 2 tipos de
 
 * No seguir las instrucciones tiene una penalización del **20%** de la nota final.
 
-* El taller debe ser terminado antes de las 23:59 horas del 2 de septiembre de 2022.
+* El taller debe ser terminado antes de las 23:59 horas del 2 de octubre de 2022.
 
 * En el repositorio asignado, debe incluir tres carpetas: input (datos originales), output (datos procesados) y code (script con la respuesta del taller).
 
